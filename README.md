@@ -1,4 +1,4 @@
-# php-server
+# php-server [Referensi from w3school]
 Element/Code	Description
 
 **$_SERVER['PHP_SELF']**	======>  Returns the filename of the currently executing script
@@ -7,7 +7,7 @@ Element/Code	Description
 
 **$_SERVER['SERVER_ADDR']**	 ======> Returns the IP address of the host server
 
-**$_SERVER['SERVER_NAME']**	======> Returns the name of the host server (such as www.w3schools.com)
+**$_SERVER['SERVER_NAME']**	======> Returns the name of the host server (such as yourdomain)
 
 **$_SERVER['SERVER_SOFTWARE']**	======> Returns the server identification string (such as Apache/2.2.24)
 
